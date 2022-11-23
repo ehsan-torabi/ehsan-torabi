@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @etet1212
-- 👀 I’m interested in Django framework
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Django framework,Android Programing,Linux and...
+- 🌱 I’m currently learning Java
 - 📫 How to reach me ...
+  Telegram: @Eh3anT
+  Instagram: ehsan.t.frs
 
 <!---
 etet1212/etet1212 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
