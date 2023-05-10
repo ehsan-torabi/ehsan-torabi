@@ -5,7 +5,7 @@
 - 📫 How to reach me :
     - Telegram: @Eh3anT
     - Instagram: ehsan.t.frs
-- :white_check_mark: Quera Page [Profile](https://quera.org/profile/vxg6pg).
+- :white_check_mark: Quera Page [Profile](https://quera.org/profile/Eh3anT).
 
 
 
