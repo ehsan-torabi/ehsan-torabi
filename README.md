@@ -20,8 +20,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ehsan-torabi&icon=6&color=6)](https://visitcount.itsvg.in)
