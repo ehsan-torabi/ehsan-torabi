@@ -3,7 +3,7 @@
 - 👀 I’m interested in Django framework,Android Programing,Linux and...
 <!-- - 🌱 I’m currently learning Java -->
 - 📫 How to reach me :
-    - Telegram: @Eh3anT
+    - Telegram: @n0tlive
     - Instagram: ehsan.t.frs
 - :white_check_mark: Quera Page [Profile](https://quera.org/profile/Eh3anT).
 
