@@ -1,11 +1,12 @@
 # 💫 About Me:
 - 👋 Hi, I’m @ehsan-torabi
-- 👀 I’m interested in Django framework,Android Programing,Linux and...
+- 👀 I’m interested in everything about computer 
 <!-- - 🌱 I’m currently learning Java -->
+<! --
 - 📫 How to reach me :
     - Telegram: @n0tlive
-    - Instagram: ehsan.t.frs
-- :white_check_mark: Quera Page [Profile](https://quera.org/profile/Eh3anT).
+    - Instagram: ehsan.t.frs -->
+<!-- - :white_check_mark: Quera Page [Profile](https://quera.org/profile/Eh3anT). -->
 
 
 
